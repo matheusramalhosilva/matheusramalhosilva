@@ -47,7 +47,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
     <a href="https://matheusramalho.dev" target="_blank">
-        <img src="https://img.shields.io/badge/-matheusramalho.dev-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
+        <img src="https://img.shields.io/badge/-matheusramalho.dev-%B5838D?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
 </div>
 
