@@ -9,7 +9,7 @@ Como pessoa sou apaixonado por `música`, `Harry Potter` e `tênis da Vans`, ess
 Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end sempre em desenvolvimento, apaixonado por design, desenho e animação optei por seguir pelo lado da programação `frontend da força`.
 Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas.
 
-<!-- Vamos trocar uma ideia! -->
+Chama nas redes sociais e vamos trocar uma ideia!
 
 <!-- * [![MR Badge](https://img.shields.io/badge/MR-matheusramalho-B5838D?style=flat-square&labelColor=E5989B&logo=MR&logoColor=white&link=https://matheusramalho.dev)](https://matheusramalho.dev) -->
 <!-- * [![Github Badge](https://img.shields.io/badge/-Github-B5838D?style=flat-square&labelColor=E5989B&logo=Github&logoColor=white&link=https://github.com/MatheusRamalho)](https://github.com/MatheusRamalho) -->
@@ -47,7 +47,7 @@ Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
     <a href="https://matheusramalho.dev" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
+        <img src="https://img.shields.io/badge/-matheusramalho.dev-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
 </div>
 
