@@ -6,8 +6,8 @@
 Me chamo Matheus Ramalho, mas pode me chamar de Mat.
 
 Como pessoa sou apaixonado por `música`, `Harry Potter` e `tênis da Vans`, essas coisas estão sempre presentes no meu dia a dia.
-Como profissional, sou Bacharel em Sistemas de Informação, e um dev frontend sempre em desenvolvimento, apaixonado por design, desenho e animação optei por seguir pelo lado da programação `frontend da força`.
-Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas. Como não sou muito fã de backend sempre trabalho com meu irmão [Ramon Pêgo](https://ramonpego.dev), um dev backend incrível.
+Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end sempre em desenvolvimento, apaixonado por design, desenho e animação optei por seguir pelo lado da programação `frontend da força`.
+Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas.
 
 Vamos trocar uma ideia!
 
@@ -17,12 +17,13 @@ Vamos trocar uma ideia!
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-B5838D?style=flat-square&labelColor=E5989B&logo=instagram&logoColor=white&link=https://instagram.com/theu_ramalhoo)](https://instagram.com/theu_ramalhoo)
 
  <div>
-    <a href="https://github.com/MatheusRamalho"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+    <a href="https://github.com/MatheusRamalho">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+    </a>
 <div>
   
-<div style="display: inline_block">
+<div style="display: inline_block; margin: 1rem 0;">
     <img alt="Mat__HTML" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Mat__CSS3" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="Mat__Sass" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -31,19 +32,16 @@ Vamos trocar uma ideia!
     <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-<div> 
+<div style="margin: 1rem 0;">
     <a href="https://instagram.com/theu_ramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mat__Instagram">
     </a>
-
     <a href="https://twitter.com/theu_ramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mat__Twitter">
     </a>
-
     <a href="https://www.linkedin.com/in/theuramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mat__Linkedin">
     </a>
-
     <a href="mailto:theuramalho@gmail.com" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
