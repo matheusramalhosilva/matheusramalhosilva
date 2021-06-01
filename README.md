@@ -10,13 +10,7 @@ Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end 
 Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas.
 
 Chama nas redes sociais e vamos trocar uma ideia!
-
-<!-- * [![MR Badge](https://img.shields.io/badge/MR-matheusramalho-B5838D?style=flat-square&labelColor=E5989B&logo=MR&logoColor=white&link=https://matheusramalho.dev)](https://matheusramalho.dev) -->
-<!-- * [![Github Badge](https://img.shields.io/badge/-Github-B5838D?style=flat-square&labelColor=E5989B&logo=Github&logoColor=white&link=https://github.com/MatheusRamalho)](https://github.com/MatheusRamalho) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-B5838D?style=flat-square&labelColor=E5989B&logo=twitter&logoColor=white&link=https://twitter.com/theu_ramalhoo)](https://twitter.com/theu_ramalhoo)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-B5838D?style=flat-square&labelColor=E5989B&logo=instagram&logoColor=white&link=https://instagram.com/theu_ramalhoo)](https://instagram.com/theu_ramalhoo) -->
-
- <div><br/>
+<div><br/>
     <a href="https://github.com/MatheusRamalho">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
@@ -33,7 +27,6 @@ Chama nas redes sociais e vamos trocar uma ideia!
 </div>
 
 <div style="margin: 1rem 0;"><br/>
-    Vamos trocar uma ideia! <br/>
     <a href="https://instagram.com/theu_ramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mat__Instagram">
     </a>
@@ -47,7 +40,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
     <a href="https://matheusramalho.dev" target="_blank">
-        <img src="https://img.shields.io/badge/-matheusramalho.dev-%B5838D?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
+        <img src="https://img.shields.io/badge/-matheusramalho.dev-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__">
     </a>
 </div>
 
