@@ -1,12 +1,12 @@
 <!-- MatheusRamalho/MatheusRamalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# MAT 
+# MAT
 
 ### E ai, blz? :v: :leaves:
 Me chamo Matheus Ramalho, mas pode me chamar de Mat.
 
 Como pessoa sou apaixonado por `música`, `Harry Potter` e `tênis da Vans`, essas coisas estão sempre presentes no meu dia a dia.
-Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end sempre em desenvolvimento, apaixonado por design, desenho e animação optei por seguir pelo lado da programação `frontend da força`.
+Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end sempre em desenvolvimento, apaixonado por design, desenho e animação optei por seguir pelo lado da programação `front-end da força`.
 Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas.
 
 Chama nas redes sociais e vamos trocar uma ideia!
@@ -16,7 +16,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
     </a>
 <div>
-  
+
 <div style="display: inline_block; margin: 1rem 0;"><br/>
     <img alt="Mat__HTML" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Mat__CSS3" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
