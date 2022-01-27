@@ -10,22 +10,6 @@ Como profissional, sou Bacharel em Sistemas de Informação, e um dev front-end 
 Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver problemas de diversas pessoas e empresas.
 
 Chama nas redes sociais e vamos trocar uma ideia!
-<div><br/>
-    <a href="https://github.com/MatheusRamalho">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
-    </a>
-<div>
-
-<div style="display: inline_block; margin: 1rem 0;"><br/>
-    <img alt="Mat__HTML" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Mat__CSS3" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Mat__Sass" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img alt="Mat__Js" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="Mat__Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-</div>
 
 <div style="margin: 1rem 0;"><br/>
     <a href="https://instagram.com/theu_ramalhoo" target="_blank" rel="noopener">
@@ -43,6 +27,23 @@ Chama nas redes sociais e vamos trocar uma ideia!
     <a href="https://matheusramalho.dev" target="_blank">
         <img src="https://img.shields.io/badge/-matheusramalho.dev-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__">
     </a>
+</div>
+
+<div><br/>
+    <a href="https://github.com/MatheusRamalho">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+    </a>
+<div>
+
+<div style="display: inline_block; margin: 1rem 0;"><br/>
+    <img alt="Mat__HTML" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="Mat__CSS3" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Mat__Sass" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img alt="Mat__Js" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Mat__Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
 
 <!-- <div>
