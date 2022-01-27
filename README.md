@@ -21,7 +21,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
     <a href="https://www.linkedin.com/in/theuramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mat__Linkedin">
     </a>
-    <a href="mailto:theuramalho@gmail.com" target="_blank" rel="noopener">
+    <a href="mailto:ramalho.dev@gmail.com" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mat__Gmail">
     </a>
     <a href="https://matheusramalho.dev" target="_blank">
