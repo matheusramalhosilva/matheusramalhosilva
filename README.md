@@ -15,7 +15,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
     <a href="https://twitter.com/matramalhosilva" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
-    <a href="https://www.linkedin.com/in/theuramalhoo" target="_blank" rel="noopener">
+    <a href="https://www.linkedin.com/in/matramalhosilva" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
     <a href="https://matheusramalho.dev" target="_blank">
