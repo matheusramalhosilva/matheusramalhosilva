@@ -12,8 +12,8 @@ Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver
 Chama nas redes sociais e vamos trocar uma ideia!
 
 <div style="margin: 1rem 0;"><br/>
-    <a href="https://twitter.com/theu_ramalhoo" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/-X-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
+    <a href="https://twitter.com/matramalhosilva" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
     <a href="https://www.linkedin.com/in/theuramalhoo" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
