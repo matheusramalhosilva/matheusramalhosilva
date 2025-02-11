@@ -28,13 +28,6 @@ Chama nas redes sociais e vamos trocar uma ideia!
 <div>
 
 <div style="display: inline_block; margin: 1rem 0;"><br/>
-    <img alt="Mat__HTML" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Mat__CSS3" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="Mat__Sass" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img alt="Mat__Js" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="Tailwind CSS" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
