@@ -34,6 +34,8 @@ Chama nas redes sociais e vamos trocar uma ideia!
     <img alt="Mat__Js" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Mat__React" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+     <img alt="Mat__Ts" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind.svg">
+    <i class="devicon-tailwindcss-original colored"></i>
 </div>
 
 <!-- <div>
