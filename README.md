@@ -1,6 +1,6 @@
 <!-- MatheusRamalho/MatheusRamalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# MAT
+# Matheus Ramalho
 
 ### E ai, blz? :v: :leaves:
 Me chamo Matheus Ramalho, mas pode me chamar de Mat.
@@ -11,33 +11,22 @@ Acho incrível pensar e desenvolver soluções eficientes e lindas para resolver
 
 Chama nas redes sociais e vamos trocar uma ideia!
 
-<div style="margin: 1rem 0;"><br/>
-    <a href="https://www.linkedin.com/in/matramalhosilva" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
-    <a href="https://matheusramalho.dev" target="_blank">
-        <img src="https://img.shields.io/badge/-matheusramalho.dev-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Site">
-    </a>
-</div>
+[![Twitter Badge](https://img.shields.io/badge/-@matramalhosilva-FFBE3C?style=for-the-badge&labelColor=FFBE3C&logo=x&logoColor=black&link=https://twitter.com/matramalhosilva)](https://x.com/matramalhosilva)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ramalho-FFBE3C?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/matramalhosilva/)](https://www.linkedin.com/in/matramalhosilva/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusramalhosilva@gmail.com-FFBE3C?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:matheusramalhosilva2@gmail.com)](mailto:matheusramalhosilva2@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-matheusamalho.dev-FFBE3C?style=for-the-badge&logo=MR&logoColor=black&link=https://matheusramalho.dev/)](https://matheusramalho.dev/)
 
 <div style="display: inline_block; margin: 1rem 0;"><br/>
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
 
 <div> <br/>
-    <a href="https://github.com/MatheusRamalho">
-<!--         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
-    </a>
-<div>
-
-<!-- <div>
-    ![Snake animation](https://github.com/rafaballerini/MatheusRamalho/blob/output/github-contribution-grid-snake.svg)
-</div> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+</div>
