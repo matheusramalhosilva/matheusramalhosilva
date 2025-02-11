@@ -20,13 +20,6 @@ Chama nas redes sociais e vamos trocar uma ideia!
     </a>
 </div>
 
-<div> <br/>
-    <a href="https://github.com/MatheusRamalho">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
-    </a>
-<div>
-
 <div style="display: inline_block; margin: 1rem 0;"><br/>
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -36,8 +29,14 @@ Chama nas redes sociais e vamos trocar uma ideia!
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
 </div>
+
+<div> <br/>
+    <a href="https://github.com/MatheusRamalho">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRamalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+    </a>
+<div>
 
 <!-- <div>
     ![Snake animation](https://github.com/rafaballerini/MatheusRamalho/blob/output/github-contribution-grid-snake.svg)
