@@ -13,7 +13,7 @@ Chama nas redes sociais e vamos trocar uma ideia!
 
 [![Twitter Badge](https://img.shields.io/badge/-@matramalhosilva-FFBE3C?style=for-the-badge&labelColor=FFBE3C&logo=x&logoColor=black&link=https://twitter.com/matramalhosilva)](https://x.com/matramalhosilva)
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ramalho-FFBE3C?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/matramalhosilva/)](https://www.linkedin.com/in/matramalhosilva/)
-[![Gmail Badge](https://img.shields.io/badge/-matheusramalhosilva@gmail.com-FFBE3C?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:matheusramalhosilva2@gmail.com)](mailto:matheusramalhosilva2@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-matheusramalhosilva2@gmail.com-FFBE3C?style=for-the-badge&logo=Gmail&logoColor=black&link=mailto:matheusramalhosilva2@gmail.com)](mailto:matheusramalhosilva2@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-matheusamalho.dev-FFBE3C?style=for-the-badge&logo=MR&logoColor=black&link=https://matheusramalho.dev/)](https://matheusramalho.dev/)
 
 <div style="display: inline_block; margin: 1rem 0;"><br/>
