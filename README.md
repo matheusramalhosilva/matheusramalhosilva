@@ -28,5 +28,5 @@ Chama nas redes sociais e vamos trocar uma ideia!
 </div>
 
 <div> <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRamalho&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramalhosilva&layout=compact&langs_count=16&theme=dracula">
 </div>
