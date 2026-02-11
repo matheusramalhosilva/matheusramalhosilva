@@ -26,7 +26,3 @@ Chama nas redes sociais e vamos trocar uma ideia!
   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </div>
-
-<div> <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramalhosilva&layout=compact&langs_count=16&theme=dracula">
-</div>
